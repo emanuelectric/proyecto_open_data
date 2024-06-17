@@ -6,15 +6,22 @@ El proyecto se enfoca en analizar y explorar diversos conjuntos de datos abierto
 
 ## Contenido del Repositorio
 El Repositorio posee dos documentos principales, más este README.
+
 Instrucción: Material brindado por el docente como guía para la realización del mismo.
+
+Datos: Los datos utilizados en el proyecto, en formato CSV.
+
 Reporte: Documento en Jupyter Notebook, con la información y el código ejecutable.
 
 ## Estructura del Proyecto
 El proyecto se divide en varias etapas:
 
 Recolección de Datos: Búsqueda y descarga de conjuntos de datos relacionados con la educación en Paraguay.
+
 Análisis y Exploración: Procesamiento y análisis de los datos para extraer información relevante.
+
 Visualización de Datos: Creación de gráficos y visualizaciones para representar los hallazgos de manera efectiva.
+
 Informe Final: Elaboración de un informe detallado que resume los resultados, conclusiones y recomendaciones.
 
 ## Uso del Repositorio
